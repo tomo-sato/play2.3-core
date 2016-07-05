@@ -1,11 +1,12 @@
 # play2.3-core
 play2.3-core は、 Play framework 2.3 ベースで作成されたアプリケーションベースのサブプロジェクトです。<br>
-DBモデル、DBアクセス、その他共通部品を提供します。
+DBモデル、DBアクセス機能、その他共通部品を提供します。利用の際は、MySQLにてデータベースを構築してください。<br>
+（[DDLはこちら](/doc/sql/)）
 
 
 
 ## 使用方法
-各アプリケーションREADMEを参照ください。
+各参照先アプリケーションREADMEを確認ください。
 * [play2.3-webapi](https://github.com/tomo-sato/play2.3-webapi)
 
 
