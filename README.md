@@ -12,7 +12,7 @@ DBモデル、DBアクセス機能、その他共通部品を提供します。�
 
 
 ## ドキュメント
-* [play2.3-core アプリケーションベース API仕様](https://tomo-sato.github.io/play2.3-core/javadoc/)
+* [play2.3-core アプリケーションベース API仕様](https://tomo-sato.github.io/play2.3-core/javadoc/index.html)
 
 
 
