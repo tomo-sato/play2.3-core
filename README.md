@@ -2,7 +2,7 @@
 play2.3-core は、 Play framework 2.3 ベースで作成されたアプリケーションベースのサブプロジェクトです。<br>
 DBモデル、DBアクセス機能、その他共通部品を提供します。利用の際は、MySQLにてデータベースを構築してください。<br>
 （[DDLはこちら](/doc/sql/)）
-
+![/doc/sql/play2.3_ERD_MySQL__Workbench6.1.png](/doc/sql/play2.3_ERD_MySQL__Workbench6.1.png)
 
 
 ## 使用方法
