@@ -16,3 +16,4 @@ dist
 /bin/
 /.*.md.html
 /.cache-main
+/doc/sql/*.bak
