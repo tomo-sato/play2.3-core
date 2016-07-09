@@ -7,7 +7,6 @@ import com.avaje.ebean.SqlUpdate;
 
 import jp.dcworks.core.components.db.SamplesComponent;
 
-
 /**
  * サンプル（samples）モデルのネイティブクエリによる操作クラス。
  * <p>アプリケーションとは祖結合としたい為、直接の参照は行わない。
